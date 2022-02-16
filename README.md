@@ -8,9 +8,9 @@
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
+* click on the **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/noobgameryt/jumpy-platformer** and import
+* search for **https://github.com/noobgameryt/jumpy-platformer** and import it
 
 ## Edit this project ![Build status badge](https://github.com/noobgameryt/jumpy-platformer/workflows/MakeCode/badge.svg)
 
